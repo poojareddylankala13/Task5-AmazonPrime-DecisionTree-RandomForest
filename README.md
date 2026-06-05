@@ -1,5 +1,7 @@
 Task 5 - Amazon Prime Decision Tree & Random Forest
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poojareddylankala13/Task5-AmazonPrime-DecisionTree-RandomForest/blob/main/Task5-AmazonPrime.ipynb)
+
 Objective
 To build and evaluate Decision Tree and Random Forest classification models using the Amazon Prime Titles dataset and compare their performance.
 
